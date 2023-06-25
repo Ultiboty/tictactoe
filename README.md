@@ -17,7 +17,11 @@ To use the chat room app, follow these steps:
 5.Run the server.py file by typing "tictactoe.py" and pressing enter.
 ## Features
 1. Playing aginst another player
-![image](https://github.com/Ultiboty/tictactoe/assets/99267952/a891cef7-51b2-4ca1-8d7e-e5803ab33a8b)
+![FSAD](https://github.com/Ultiboty/tictactoe/assets/99267952/aafc97de-d10c-43d6-bdfd-faa574ed7d7d)
+
+
+
 2. Playing aginst computer
 3. Watching past games based on player names.
-![image](https://github.com/Ultiboty/tictactoe/assets/99267952/d08469ee-405f-4fdf-b2ca-e3280ac9e3f9)
+![GHDSG](https://github.com/Ultiboty/tictactoe/assets/99267952/34c1070b-a4a5-4029-8897-12486b1a2a50)
+
