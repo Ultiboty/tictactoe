@@ -21,8 +21,10 @@ To use the chat room app, follow these steps:
 
 
 
+
 2. Playing aginst computer
 3. Watching past games and their data based on player names. (games can be watched even after closing and reopening the program since its saved in an sql db)
+   
 ![FFF](https://github.com/Ultiboty/tictactoe/assets/99267952/8e08139c-b3c2-4d84-a7f1-243b315e0777)
 
 
