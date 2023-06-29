@@ -2,10 +2,11 @@
 A tic tac toe project in game with an option to play aginst the computer. saves the games at an sql database and lets you see the history.
 ## Requirements
 The app requires Python and the following libraries:
-* random
-* sqlite3
-* datatime
-* tabulate
+* random.
+* sqlite3.
+* datatime.
+* tabulate.
+
 you need to open database.db file.
 ## Usage
 To use the chat room app, follow these steps:
